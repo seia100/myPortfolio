@@ -1,1 +1,54 @@
+/* Estilos básicos */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 100vh;
+    background-color: #1a1a1a; /* o el color de fondo que prefieras */
+    color: #f5f5f5; /* o el color de texto que prefieras */
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
 
+.container {
+    width: 100%;
+    max-width: 800px; /* o el ancho máximo que prefieras */
+    margin: 20px;
+    padding: 0 20px;
+    box-sizing: border-box;
+}
+
+header, footer {
+    background-color: #333; /* Un color más oscuro para el header y footer */
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+    width: 100%;
+}
+
+nav ul li a {
+    color: white; /* Asegúrate de que los enlaces sean visibles en el tema oscuro */
+}
+
+/* Cambia los colores de los enlaces al pasar el mouse por encima */
+nav ul li a:hover {
+    color: #f5f5f5;
+    text-decoration: underline;
+}
+
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+
+section {
+    margin: 20px 0;
+}
