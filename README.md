@@ -2,6 +2,7 @@
 This is my personal and professional information about my interests and hobbies 
 
 This is my personal web. 
+
 ![home](https://github.com/luis10095/myPortfolio/assets/89529418/c7e24a72-308d-4371-ab59-39523adc8fcf)
 
 ![What I do](https://github.com/luis10095/myPortfolio/assets/89529418/6eed3329-f078-4a30-9440-94093fe391c8)
