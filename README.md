@@ -10,6 +10,7 @@ This is my personal web.
 ![About me](https://github.com/luis10095/myPortfolio/assets/89529418/417f3219-cf90-4e3f-a6bd-dfec1d07c9be)
 ![About me](https://github.com/luis10095/myPortfolio/assets/89529418/76d243d1-658a-470d-9a46-054a41dd68b9)
 
+In the case of the portfolio, when you move the mouse over it, you will see a description of the project and the members or authors.
 ![My projects](https://github.com/luis10095/myPortfolio/assets/89529418/a2c61d71-6d46-44ea-9efb-68fcda737d00)
 
 ![Contact me](https://github.com/luis10095/myPortfolio/assets/89529418/7520db06-f1a5-4a11-8040-1a502496f988)
