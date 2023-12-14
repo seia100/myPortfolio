@@ -13,6 +13,11 @@ This is my personal web.
 In the case of the portfolio, when you move the mouse over it, you will see a description of the project and the members or authors.
 ![My projects](https://github.com/luis10095/myPortfolio/assets/89529418/a2c61d71-6d46-44ea-9efb-68fcda737d00)
 
+![kuska](https://github.com/luis10095/myPortfolio/assets/89529418/b9150780-0baf-40c6-b39b-2ddd0e06c87a)
+![pumTacho](https://github.com/luis10095/myPortfolio/assets/89529418/46187450-08ba-4437-ba41-592fab1f626b)
+![HR](https://github.com/luis10095/myPortfolio/assets/89529418/7da2400d-04bc-4ec2-89b1-126632a442d8)
+
+
 ![Contact me](https://github.com/luis10095/myPortfolio/assets/89529418/7520db06-f1a5-4a11-8040-1a502496f988)
 
 I appreciate templatemo's resources https://templatemo.com
