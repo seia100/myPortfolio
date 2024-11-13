@@ -1,11 +1,19 @@
 # Luis Arenas
 This is my personal and professional information about my interests and hobbies 
 
+### About me
+I am a Computer Engineering student passionate about digital security and process optimization, and I’m passionate about
+exploring and learning more in these fields.
+
+### 📲 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/luis-santiago-arenas-torres-52a513260/)
+
+more about me, in the following screenshots 
+
 This is my personal web. 
 
-![home](https://github.com/luis10095/myPortfolio/assets/89529418/c7e24a72-308d-4371-ab59-39523adc8fcf)
+![home](https://github.com/luis10095/myPortfolio/assets/89529418/c7e24a72-308d-4371-ab59-39523adc8fcf) ![What I do](https://github.com/luis10095/myPortfolio/assets/89529418/6eed3329-f078-4a30-9440-94093fe391c8)
 
-![What I do](https://github.com/luis10095/myPortfolio/assets/89529418/6eed3329-f078-4a30-9440-94093fe391c8)
 
 ![About me](https://github.com/luis10095/myPortfolio/assets/89529418/417f3219-cf90-4e3f-a6bd-dfec1d07c9be)
 ![About me](https://github.com/luis10095/myPortfolio/assets/89529418/76d243d1-658a-470d-9a46-054a41dd68b9)
